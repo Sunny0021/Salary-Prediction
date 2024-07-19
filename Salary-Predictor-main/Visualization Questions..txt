@@ -1,0 +1,7 @@
+1) The total number of staffs.
+2) The average salary.
+3) Gender break-down of the staff.
+4) Age spread of the staff
+5) Which jobs pay more?
+6) Number of staffs in each job.
+7) A Dashbord.
